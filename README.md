@@ -12,7 +12,6 @@ This project demonstrates how to create a simple chatbot that can respond to use
 - Simple GUI for interacting with the chatbot using Tkinter
 
 ## Preview
-## Preview
 ![chat](chat.png)
 
 ## Installation
